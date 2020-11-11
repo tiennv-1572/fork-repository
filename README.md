@@ -1,3 +1,4 @@
+Cuong's new code
 <p align="center">
     <img src="https://raw.githubusercontent.com/nunomaduro/skeleton-php/master/docs/example.png" height="300" alt="Skeleton Php">
     <p align="center">
