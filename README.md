@@ -1,3 +1,4 @@
+<!-- Cuong's hihi code -->
 <p align="left">
     <img src="https://raw.githubusercontent.com/nunomaduro/skeleton-php/master/docs/example.png" height="300" alt="Skeleton Php">
     <p align="center">
