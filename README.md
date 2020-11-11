@@ -1,5 +1,4 @@
-Cuong's new code
-<p align="center">
+<p align="left">
     <img src="https://raw.githubusercontent.com/nunomaduro/skeleton-php/master/docs/example.png" height="300" alt="Skeleton Php">
     <p align="center">
         <a href="https://github.com/nunomaduro/skeleton-php/actions"><img alt="GitHub Workflow Status (master)" src="https://img.shields.io/github/workflow/status/nunomaduro/skeleton-php/Tests/master"></a>
