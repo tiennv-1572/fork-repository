@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License (MIT) hahaha
 
 Copyright (c) Nuno Maduro <enunomaduro@gmail.com>
 
