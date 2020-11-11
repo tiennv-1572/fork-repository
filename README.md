@@ -40,3 +40,4 @@ composer test
 ```
 
 **Skeleton PHP** was created by **[Nuno Maduro](https://twitter.com/enunomaduro)** under the **[MIT license](https://opensource.org/licenses/MIT)**.
+//do nothing
